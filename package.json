@@ -1,0 +1,22 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "login form practice session",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anwesh897/login-fiesta.git"
+  },
+  "author": "Anwesh Korram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anwesh897/login-fiesta/issues"
+  },
+  "homepage": "https://github.com/Anwesh897/login-fiesta#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
