@@ -219,7 +219,7 @@ img {
 /*end reset*/
 
 body {
-  background: url(../images/Guitar.jpg) no-repeat;
+  background: url(../images/Guitar.jpg) repeat;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
