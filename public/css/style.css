@@ -219,7 +219,8 @@ img {
 /*end reset*/
 
 body {
-  background: url(../images/Guitar.jpg) repeat;
+  background: linear-gradient(to right, indigo, dodgerblue)
+    /*url(../images/Guitar.jpg) repeat;*/;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -264,7 +265,7 @@ h1 span {
 .sub-main-w3 form {
   max-width: 600px;
   margin: 0 5vw;
-  background: rgba(12, 12, 12, 0.24);
+  /* background: rgba(12, 12, 12, 0.24); */
   padding: 3.5vw;
   box-sizing: border-box;
   display: -webkit-flex;
